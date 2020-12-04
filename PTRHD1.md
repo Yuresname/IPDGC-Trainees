@@ -1,7 +1,7 @@
 # PTRHD1
 Yuri Sosero, Lynne Krohn (McGill)
 
-## GWAS analyss - IPDGC cohort (Nalls et al., 2019).
+## GWAS analysis - IPDGC cohort (Nalls et al., 2019).
 
 ### 1. Subset PLINK Binaries + Convert to VCFs
 
